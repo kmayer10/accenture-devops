@@ -1,0 +1,21 @@
+#!/bin/sh
+echo "[INFO] Hostname is "
+hostname
+
+echo "[INFO] **************************"
+ls -ltr
+echo "[INFO] **************************"
+echo "[]INFO] current user is"
+whoami
+
+touch jenkins
+echo "[INFO] **************************"
+ls -ltr
+echo "[INFO] **************************"
+cat jenkins
+
+echo "[INFO] **************************"
+echo "insert into file" > jenkins
+
+echo "[INFO] **************************"
+cat jenkins
