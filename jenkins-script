@@ -19,3 +19,7 @@ echo "insert into file" > jenkins
 
 echo "[INFO] **************************"
 cat jenkins
+
+echo "[INFO] ***************************"
+echo "[INFO] Demo for VCS polling for Jenkins"
+echo "[INFO] ***************************"
