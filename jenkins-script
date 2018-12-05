@@ -23,3 +23,6 @@ cat jenkins
 echo "[INFO] ***************************"
 echo "[INFO] Demo for VCS polling for Jenkins"
 echo "[INFO] ***************************"
+
+echo "[INFO] Demo for Build trigger when other build is completed"
+echo "[INFO] ***************************"
