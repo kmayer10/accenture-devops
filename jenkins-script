@@ -26,3 +26,5 @@ echo "[INFO] ***************************"
 
 echo "[INFO] Demo for Build trigger when other build is completed"
 echo "[INFO] ***************************"
+
+echo "[INFO] Demo for Jenkins and JIRA Integration"
