@@ -2,6 +2,8 @@
 echo "[INFO] Hostname is "
 hostname
 
+echo "[ECHO] GITHUB Plug-in Usage"
+
 echo "[INFO] **************************"
 ls -ltr
 echo "[INFO] **************************"
